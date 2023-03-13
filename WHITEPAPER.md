@@ -1,4 +1,4 @@
-# SparkDeFi White Paper
+# SparkSwap DeFi White Paper
 
 SparkPoint Decentralized Finance Platform
 
